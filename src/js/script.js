@@ -38,4 +38,3 @@
 // } else {
 //     alert(`John's BMI (${JohnsBMI2}) is higher than Mark's (${MarksBMI2})!`);
 // }
-
