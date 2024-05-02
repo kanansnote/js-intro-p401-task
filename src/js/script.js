@@ -38,3 +38,25 @@
 // } else {
 //     alert(`John's BMI (${JohnsBMI2}) is higher than Mark's (${MarksBMI2})!`);
 // }
+
+// Task 3
+
+// alert('We have two teams competing with each other: Dolphins vs. Koalas');
+
+// const DolphinsScore = [96, 108, 89];
+// const KoalasScore = [88, 91, 110];
+
+// const avgScoreOfDolphins = (DolphinsScore[0] + DolphinsScore[1] + DolphinsScore[2])/3;
+// const avgScoreOfKoalas = (KoalasScore[0] + KoalasScore[1] + KoalasScore[2])/3;
+
+// const minScore = 100;
+
+// if (DolphinsScore >= minScore && (avgScoreOfDolphins > avgScoreOfKoalas)) {
+//     alert('Dolphins team is a winner');
+// } else if (KoalasScore >= minScore && (avgScoreOfKoalas > avgScoreOfDolphins)) {
+//     alert('Koalas team is a winner');
+// } else if (DolphinsScore >= 100 && KoalasScore >= 100 && (avgScoreOfDolphins === avgScoreOfKoalas)){
+//     alert('Each team draws');
+// } else {
+//     alert('No one wins');
+// }
