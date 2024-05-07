@@ -60,3 +60,17 @@
 // } else {
 //     alert('No one wins');
 // }
+
+// Task 4
+
+// let bill;
+
+// bill = [275, 40, 430];
+
+// let tip1 = bill[0] >= 50 && bill[0] <= 300 ? bill[0] * 15 / 100 : bill[0] * 20 / 100;
+// let tip2 = bill[1] >= 50 && bill[1] <= 300 ? bill[1] * 15 / 100 : bill[1] * 20 / 100;
+// let tip3 = bill[2] >= 50 && bill[2] <= 300 ? bill[2] * 15 / 100 : bill[2] * 20 / 100;
+
+// console.log(tip1, bill[0], bill[0] + tip1);
+// console.log(tip2, bill[1], bill[1] + tip2);
+// console.log(tip3, bill[2], bill[2] + tip3);
